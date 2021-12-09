@@ -13,3 +13,5 @@ I worked on this capstone project towards completion of final assessment for PGP
 - Data Reporting - Dashboarding in tableau
 
 I have shared complete code for this project as well tableau sheet with dashboard for reporting.
+
+![Dashboard](https://user-images.githubusercontent.com/35433262/145397878-87c296ce-11cf-43ea-84cd-2772cc219516.png)
